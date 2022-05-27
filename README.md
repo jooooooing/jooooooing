@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+  	<!-- C언어 -->
+		<img src="https://img.shields.io/badge/C-A8B9CC?style=plastic-square&logo=C&logoColor=white"/>
+		
+	
+		<!-- 자바 -->
+		<img src="https://img.shields.io/badge/Java-007396?style=plastic-square&logo=Java&logoColor=white"/> 
+		<!-- 자바스크립트 -->
+		<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic-square&logo=Javascript&logoColor=white"/> 
