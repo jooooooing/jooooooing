@@ -1,12 +1,15 @@
 ### Hi there 👋
 
+
+<img src="https://img.shields.io/badge/C-A8B9CC?style=plastic-square&logo=C&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-007396?style=plastic-square&logo=Java&logoColor=white"/> 
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic-square&logo=Javascript&logoColor=white"/> 
+
 <!--
 **jooooooing/jooooooing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-<img src="https://img.shields.io/badge/C-A8B9CC?style=plastic-square&logo=C&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-007396?style=plastic-square&logo=Java&logoColor=white"/> 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic-square&logo=Javascript&logoColor=white"/> 
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
