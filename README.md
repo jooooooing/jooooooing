@@ -1,3 +1,4 @@
+<div align="center">
 ### 👋 Hi there, I'm JooHyun
 
 
@@ -23,7 +24,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jooooooing&layout=compact)](https://github.com/jooooooing/github-readme-stats)
 
-
+</div>
 
 <!--
 **jooooooing/jooooooing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
