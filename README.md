@@ -1,6 +1,6 @@
 <div align="center">
   
-### 👋 Hi there, I'm JooHyun
+## 👋 Hi there, I'm JooHyun
 
 
  🌱 I’m currently learning ... <br>
