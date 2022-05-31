@@ -4,7 +4,7 @@
 
 
 ### 🌱 I’m currently learning ... <br>
-<img src="https://img.shields.io/badge/Java-007396?style=plastic-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic-square&logo=Javascript&logoColor=white"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=plastic-square&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic-square&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic-square&logo=CSS3&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Java-007396?style=plastic-square&logo=Java&logoColor=white"/>  <img src="https://img.shields.io/badge/C-A8B9CC?style=plastic-square&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic-square&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic-square&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic-square&logo=Javascript&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=plastic-square&logo=Python&logoColor=white"/> 
 
 <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=plastic-square&logo=Eclipse IDE&logoColor=white"/> <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=plastic-square&logo=Visual Studio Code&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=plastic-square&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/Jupyter-F37626?style=plastic-square&logo=Jupyter&logoColor=white"/>
 
